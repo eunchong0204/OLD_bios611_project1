@@ -16,3 +16,8 @@ You will need Docker. You need to be able to run docker as your user.
     docker run -v `pwd`:/home/rstudio -p 8787:8787 -e PASSWORD=9779 -t project1_env
 
 
+The First Figure
+----------------
+I made the figurue showing the association between the rating of IMDB users and that of critics.
+I think it has a strong association!.
+ 
