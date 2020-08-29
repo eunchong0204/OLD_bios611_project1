@@ -2,7 +2,7 @@ Bios 611 Project1
 =================
 IMDB MOVIE RATINGS ANALYSIS
 -------------------------------
-(I changed the data to be analysed from Breast cancer proteomes to IMDB movie ratings data
+(I changed the data to be analysed from Breast cancer proteomes to IMDB movie ratings data)
 
 
 This repo will eventually contain an analysis of IMDB movie ratings data.
