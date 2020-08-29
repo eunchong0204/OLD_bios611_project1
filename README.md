@@ -1,10 +1,11 @@
 Bios 611 Project1
+(I changed the data to be analysed from Breast cancer proteomes to IMDB movie ratings data
 =================
-Breast Cancer Proteome Analysis
+IMDB MOVIE RATINGS ANALYSIS
 -------------------------------
 
 
-This repo will eventually contain an analysis of Breast Cancer Proteomes
+This repo will eventually contain an analysis of IMDB movie ratings data.
 
 Using This Project
 ------------------
