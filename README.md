@@ -1,6 +1,6 @@
 Bios 611 Project1
 =================
-IMDB MOVIE RATINGS ANALYSIS
+IMDB MOVIE GENRE ANALYSIS
 -------------------------------
 
 Proposal
@@ -8,9 +8,8 @@ Proposal
 
 Introduction
 ------------
- Watching a movie is one of the most favorite hobbies these days.
-It is interesting to see which movie genre is popular 
-
+ Watching a movie is one of the favorite hobbies these days.
+It is interesting to see which movie genre is now most profitable.
 
 Dataset
 --------
@@ -31,7 +30,7 @@ Preliminary Figures
  The two histograms show that there is a difference of the distribution of the genres over gross. 
 
 ![](assets/genre_comp_table_by_result.png)
- The difference looks clearer in this figure. Some genres, such as fantasy, animation, and family, belongs to the list of top 10 in the success group.
+ The difference looks clearer in this figure. Some genres, such as fantasy, animation, and family, is in the list of top 10 genres in the success group.
 However, they are below the 10th place in the failure group. 
 
 
