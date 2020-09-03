@@ -5,6 +5,10 @@ IMDB MOVIE RATINGS ANALYSIS
 (I changed the data to be analysed from Breast cancer proteomes to IMDB movie ratings data)
 
 
+![](assets/freq_genre_by_result.png)
+
+![](assets/genre_comp_table_by_result.png)
+
 This repo will eventually contain an analysis of IMDB movie ratings data.
 
 Using This Project
