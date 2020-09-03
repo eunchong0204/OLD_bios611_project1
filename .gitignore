@@ -1,3 +1,5 @@
 .local/*
 .rstudio/*
 derived_data/*.csv
+figures/*.png
+Rplots.pdf
