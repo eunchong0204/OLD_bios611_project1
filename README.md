@@ -10,13 +10,13 @@ Introduction
 ------------
  Watching a movie is one of the favorite hobbies these days.
 As there has been growing interest in film industy, it is interesting to see which genre of movie makes large profits. 
-Also, if you were a film maker, what kind of movie do you have to make?
+In other words, if you were a film maker, what kind of movie do you have to make?
 
 
 This project will include descriptive statistics about the relationship between genres and gross. For this visualization, I plan to make it in an interactive form by using Plotly package.
 
 
-the project also include modeling to predict the possibility for a movie to make large profits on the basis of its genres.
+The project will also include modeling to predict the possibility for a movie to make large profits on the basis of its genres.
 To be specific, I will randomly pick three genres for a movie and predict whether its profit is in the top 25%.
 I do not know about predictive modeling techniques yet. I will apply techniques presented in the class such as bayesian models, tree based regression. 
 
@@ -28,8 +28,8 @@ The columns of the data are movie title, gross, imdb user's rating, genres, rele
 
 
  Each movie in the data normally belongs to one-to-three genres among total 21 genres. For example, the genres of Gladiator are action, adventure, and drama.
-Movies will be grouped into two groups by total gross, one is the top 25% grossing group and the other is the lower 75% grossing group.
-The added 'result' column in the wrangled dataset shows a group to which a movie belong. If a movie is in the top 25%, the movie will be considered as success in the result column, otherwise as failure.
+Movies will be grouped into the two groups by total gross, one is the top 25% grossing group and the other is the lower 75% grossing group.
+The added 'result' column in the wrangled dataset shows which group a movie belongs to. If a movie is in the top 25%, the movie will be considered as success in the result column, otherwise as failure.
 
 Preliminary Figures
 -------------------
