@@ -9,11 +9,11 @@ Proposal
 Introduction
 ------------
  Watching a movie is one of the favorite hobbies these days.
-It is interesting to see which movie genre makes large profits because it is related to which genre is now most popular.
+It is interesting to see which movie genre makes large profits.
 
 
-This project will include descriptive statistics about the relationship between genres and gross
- and, also include modeling to predict the possibility for a movie to make large profits on the basis of its genres.
+This project will include descriptive statistics about the relationship between genres and gross,
+ and also include modeling to predict the possibility for a movie to make large profits on the basis of its genres.
 To be specific, I will randomly pick three genres for a movie and predict whether its profit is in the top 25%.
 I do not know about predictive modeling techniques yet. So, I will apply techniques presented in the class. 
 
