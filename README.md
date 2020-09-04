@@ -1,6 +1,6 @@
 Bios 611 Project1
 =================
-IMDB MOVIE GENRE ANALYSIS
+IMDB MOVIE GENRE-GROSS ANALYSIS
 -------------------------------
 
 Proposal
@@ -9,13 +9,17 @@ Proposal
 Introduction
 ------------
  Watching a movie is one of the favorite hobbies these days.
-It is interesting to see which movie genre is now most profitable.
+It is interesting to see which movie genre makes large profits because it is related to which genre is now most popular.
+This project will include descriptive statistics about the relationship between genres and gross
+ and, also include modeling to predict the possibility for a movie to make large profits on the basis of its genres.
+To be specific, I will randomly pick three genres for a movie and predict whether its profit is in the top 25%.
+I do not know much about predictive modeling techniques yet. So, I will apply the techniques presented in the class. 
 
 Dataset
 --------
  The dataset I will use is publicly available on Kaggle. The address is "https://www.kaggle.com/pysaphal/imdb-20002019-movie-data-set-over-3000?select=df_movie_ratings.csv".
 The dataset is scraped from IMDB and contains the information about movies released in the cinema between 2000 and 2019.
-The variables of the data are movie title, gross, imdb user's rating, genres, released year, and so on.
+The variables of the data are movie title, gross, imdb user's rating, genres, release year, and so on.
 
 
  Each movie in the data normally belongs to one-to-three genres among total 21 genres.
