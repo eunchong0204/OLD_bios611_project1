@@ -9,7 +9,8 @@ Proposal
 Introduction
 ------------
  Watching a movie is one of the favorite hobbies these days.
-It is interesting to see which movie genre makes large profits.
+As there has been growing interest in film industy, it is interesting to see which genre of movie makes large profits. 
+Also, if you were a film maker, what kind of a movie do you have to make?
 
 
 This project will include descriptive statistics about the relationship between genres and gross,
