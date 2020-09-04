@@ -10,24 +10,26 @@ Introduction
 ------------
  Watching a movie is one of the favorite hobbies these days.
 As there has been growing interest in film industy, it is interesting to see which genre of movie makes large profits. 
-Also, if you were a film maker, what kind of a movie do you have to make?
+Also, if you were a film maker, what kind of movie do you have to make?
 
 
-This project will include descriptive statistics about the relationship between genres and gross,
- and also include modeling to predict the possibility for a movie to make large profits on the basis of its genres.
+This project will include descriptive statistics about the relationship between genres and gross. For this visualization, I plan to make it in an interactive form by using Plotly package.
+
+
+the project also include modeling to predict the possibility for a movie to make large profits on the basis of its genres.
 To be specific, I will randomly pick three genres for a movie and predict whether its profit is in the top 25%.
-I do not know about predictive modeling techniques yet. So, I will apply techniques presented in the class. 
+I do not know about predictive modeling techniques yet. I will apply techniques presented in the class such as bayesian models, tree based regression. 
 
 Dataset
 --------
  The dataset I will use is publicly available on Kaggle. The address is "https://www.kaggle.com/pysaphal/imdb-20002019-movie-data-set-over-3000?select=df_movie_ratings.csv".
 The dataset is scraped from IMDB and contains the information about movies released in the cinema between 2000 and 2019.
-The variables of the data are movie title, gross, imdb user's rating, genres, release year, and so on.
+The columns of the data are movie title, gross, imdb user's rating, genres, release year, and so on.
 
 
- Each movie in the data normally belongs to one-to-three genres among total 21 genres.
+ Each movie in the data normally belongs to one-to-three genres among total 21 genres. For example, the genres of Gladiator are action, adventure, and drama.
 Movies will be grouped into two groups by total gross, one is the top 25% grossing group and the other is the lower 75% grossing group.
-The added 'result' variable in the wrangled dataset shows a group to which a movie belong. If a movie is in the top 25%, the movie will be considered as success, otherwise, as failure.
+The added 'result' column in the wrangled dataset shows a group to which a movie belong. If a movie is in the top 25%, the movie will be considered as success in the result column, otherwise as failure.
 
 Preliminary Figures
 -------------------
