@@ -13,12 +13,27 @@ As there has been growing interest in film industy, it is interesting to see whi
 In other words, if you were a film maker, what kind of movie do you have to make?
 
 
-This project will include descriptive statistics about the relationship between genres and gross. For this visualization, I plan to make it in an interactive form by using Plotly package.
+This project will include descriptive statistics about the relationship between some genres and gross. For this visualization, I plan to make it in an interactive form by using Plotly package.
 
 
 The project will also include modeling to predict the possibility for a movie to make large profits on the basis of its genres.
-To be specific, I will randomly pick three genres for a movie and predict whether its profit is in the top 25%.
-I do not know about predictive modeling techniques yet. I will apply techniques presented in the class such as bayesian models, tree based regression. 
+To be specific, I will randomly pick three genres for a movie and predict whether its profit would be in the top 25%.
+I do not know about predictive modeling techniques yet. I will apply techniques presented in the class such as bayesian models, tree based regression.
+
+
+Questions to be answered
+------------------------
+
+1. Is there any association between genres and gross in the dataset?
+2. Is it possible to predict whether some movie would be a high-grossing movie by genres?
+
+
+Criteria for completion
+------------------------
+
+1. How clearly does graphs in the project show the relationship between genres and gross?
+2. Given three genres for a movie, can a modeling predict the possibility for the movie to make a lot of money?
+
 
 Dataset
 --------
@@ -59,5 +74,4 @@ enter the below command in Bash or Rstudio.
 
 	make figures/freq_genre_by_result.png
 	make figures/genre_comp_table_by_result.png
-
 
